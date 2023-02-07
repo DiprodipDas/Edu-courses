@@ -1,0 +1,50 @@
+[
+    {
+        "title":"English(Basic to Advance Course)",
+        "teacher":"Asif Iqbal",
+        "course_id":"01",
+        "img":"https://improveyouraccent.co.uk/wp-content/uploads/2018/05/improve-your-accent-course-page-01-banner-AW2.png",
+        "price":"5000",
+        "description":"This course is developed your skill in English.After completing this course you can write & speak english fluently."
+    },
+    {
+        "title":"Web Development",
+        "teacher":"Sree Dutta",
+        "course_id":"02",
+        "img":"https://www.howtofree.org/wp-content/uploads/2021/01/Web-Dev-1300x728-1-1024x573.jpg",
+        "price":"6000",
+        "description":"This course is making you ready for develop a website.After completing this course you can be able to work as a full stack developer."
+    },
+    {
+        "title":"JavaScript(Basic to Advance Course)",
+        "teacher":"Nafees Karim",
+        "course_id":"03",
+        "img":"https://i.morioh.com/ba23cdfe71.png",
+        "price":"7000",
+        "description":"This course is fully based on JavaScript.The main focus of this course is to make you pro in JavaScript"
+    },
+    {
+        "title":"How to prepare for Job interview",
+        "teacher":"Munna Hasan",
+        "course_id":"04",
+        "img":"https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2151265038/settings_images/MuefDpcPS1qn8PEcLDVY_aviation-interview-question.jpeg",
+        "price":"3000",
+        "description":"This course is developed your skill in the field of Interview.After completing this course you can fully prepare for the interview."
+    },
+    {
+        "title":"Basic C++",
+        "teacher":"Manik Hasan",
+        "course_id":"05",
+        "img":"https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1080335/cover-0325-LearnCandC__Languages_Dan_Newsletter-743100f051077054fa1cc613ff4523a2.png",
+        "price":"8000",
+        "description":"This course is developed your skill in the field of C++.After completing this course you can solve several problem and get clear knowledge about OOP."
+    },
+    {
+        "title":"Basic Data Structure ",
+        "teacher":"Shadin Islam",
+        "course_id":"06",
+        "img":"https://www.programmerspoint.in/images/data-structure-course.jpg",
+        "price":"9000",
+        "description":"This course is developed your skill in the field of Data Structure.After completing this course you can fully prepare for solving different complex problem"
+    }
+]
