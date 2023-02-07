@@ -25,7 +25,7 @@ import Login from "../../Pages/Login/Login";
             {
                 path:'/details/:id',
                 element:<Details></Details>,
-                loader:({params})=>fetch(`http://localhost:5000/courses/${params.id}`)
+                loader:({params})=>fetch(`https://edu-courses-server.vercel.app/courses/${params.id}`)
             }
         ]
     }
